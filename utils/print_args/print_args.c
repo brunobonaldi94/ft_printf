@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <stdint.h>
 
 int	is_valid_args(t_format_opt **format_opt)
 {

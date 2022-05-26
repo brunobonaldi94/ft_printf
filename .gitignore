@@ -1,0 +1,7 @@
+*.o
+*.a
+/printfTester
+/ft_printf_tester
+/tests/main
+/tests/vgcore*
+.vscode/
